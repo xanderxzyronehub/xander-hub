@@ -12,7 +12,7 @@ if coreGui:FindFirstChild("ZyroneHubCore") then
 end
 
 local sourcesHubCore = Instance.new("ScreenGui")
-sourcesHubCore.Name = "XanderHubCore"
+sourcesHubCore.Name = "ZyroneHubCore"
 sourcesHubCore.ResetOnSpawn = false
 sourcesHubCore.Parent = coreGui
 
@@ -279,7 +279,7 @@ local textLabel3 = Instance.new("TextLabel")
 textLabel3.Size = UDim2.new(1, -40, 1, 0)
 textLabel3.Position = UDim2.new(0, 10, 0, 0)
 textLabel3.BackgroundTransparency = 1
-textLabel3.Text = "ZYRONE HUB 🥶 | discord.gg/sourceshubs"
+textLabel3.Text = "XANDER HUB 🥶 | discord.gg/sourceshubs"
 textLabel3.TextColor3 = Color3.fromRGB(60, 170, 255)
 textLabel3.TextSize = 11
 textLabel3.Font = Enum.Font.GothamBold
