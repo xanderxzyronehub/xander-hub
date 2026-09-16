@@ -279,7 +279,7 @@ local textLabel3 = Instance.new("TextLabel")
 textLabel3.Size = UDim2.new(1, -40, 1, 0)
 textLabel3.Position = UDim2.new(0, 10, 0, 0)
 textLabel3.BackgroundTransparency = 1
-textLabel3.Text = "XANDER HUB 🥶 | discord.gg/sourceshubs"
+textLabel3.Text = "XANDER HUB 🥶 | V1"
 textLabel3.TextColor3 = Color3.fromRGB(60, 170, 255)
 textLabel3.TextSize = 11
 textLabel3.Font = Enum.Font.GothamBold
@@ -547,7 +547,7 @@ local function helper2(val8)
       end
 
       local sourcesHubTag = Instance.new("BillboardGui")
-      sourcesHubTag.Name = "XanderTag"
+      sourcesHubTag.Name = "XZTag"
       sourcesHubTag.Size = UDim2.new(0, 200, 0, 35)
       sourcesHubTag.StudsOffset = Vector3.new(0, 2.5, 0)
       sourcesHubTag.AlwaysOnTop = true
