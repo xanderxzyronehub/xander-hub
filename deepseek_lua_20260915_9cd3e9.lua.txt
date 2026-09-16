@@ -12,7 +12,7 @@ if coreGui:FindFirstChild("ZyroneHubCore") then
 end
 
 local sourcesHubCore = Instance.new("ScreenGui")
-sourcesHubCore.Name = "ZyroneHubCore"
+sourcesHubCore.Name = "XanderHubCore"
 sourcesHubCore.ResetOnSpawn = false
 sourcesHubCore.Parent = coreGui
 
